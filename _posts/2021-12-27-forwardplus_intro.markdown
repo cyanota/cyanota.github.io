@@ -1,6 +1,9 @@
-layout: page
-title: "Forward+——进一步提升延迟光照水平"
-permalink: /blog/
+---
+layout: post
+title:  "【译】Forward+——进一步提升延迟光照水平"
+date:   2021-12-27 19:41:00 +0000
+categories: TA
+---
 
 # 【译】Forward+——进一步提升延迟光照水平
 
