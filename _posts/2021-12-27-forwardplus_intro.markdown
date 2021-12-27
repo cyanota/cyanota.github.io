@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "forwardplus intro"
+title:  "Forwardplus Intro"
 date:   2021-12-27 19:41:00 +0000
 categories: TA
 ---
