@@ -7,6 +7,8 @@ categories: TA
 
 # 【译】Forward+——进一步提升延迟光照水平
 
+[原文链接](https://takahiroharada.files.wordpress.com/2015/04/forward_plus.pdf)
+
 Takahiro Harada, Jay McKee, and Jason C.Yang
 
 Advanced Micro Devices, Inc.
