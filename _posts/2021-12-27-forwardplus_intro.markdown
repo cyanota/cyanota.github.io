@@ -66,17 +66,13 @@ Forward+扩展了前向渲染管线，仅在最终着色前添加了一个光照
 ## 参考
 
 
-[^Kap10]: [Kap10] KAPLANYAN A.: CryENGINE 3: Reaching the speed of
-light. ACM SIGGRAPH 2010 Courses (2010). 2
+[^Kap10]: [Kap10] KAPLANYAN A.: CryENGINE 3: Reaching the speed of light. ACM SIGGRAPH 2010 Courses (2010). 2
 
-[^AMHH08]: [AMHH08] AKENINE-MOLLER T., HAINES E., HOFFMAN N.:
-Real-Time Rendering, 3 ed. AK Peters, July 2008. 3
+[^AMHH08]: [AMHH08] AKENINE-MOLLER T., HAINES E., HOFFMAN N.: Real-Time Rendering, 3 ed. AK Peters, July 2008. 3
 
-[^And11]: [And11] ANDERSSON J.: DirectX 11 Rendering in Battlefield 3.
-Game Developers Conference (2011). 3, 4
+[^And11]: [And11] ANDERSSON J.: DirectX 11 Rendering in Battlefield 3. Game Developers Conference (2011). 3, 4
 
-[^Tre09]:  [Tre09] TREBILCO D.: Light indexed deferred rendering. In
-ShaderX7 (2009), Charles River Media. 3
+[^Tre09]:  [Tre09] TREBILCO D.: Light indexed deferred rendering. In ShaderX7 (2009), Charles River Media. 3
 
 
 
