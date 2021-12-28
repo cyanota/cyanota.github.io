@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Forwardplus Intro"
+title:  "【译】Forward+——进一步提升延迟光照水平"
 date:   2021-12-27 19:41:00 +0000
 categories: TA
 ---
-
-# 【译】Forward+——进一步提升延迟光照水平
 
 [原文链接](https://takahiroharada.files.wordpress.com/2015/04/forward_plus.pdf)
 
@@ -79,3 +77,6 @@ Game Developers Conference (2011). 3, 4
 
 [^Tre09]:  [Tre09] TREBILCO D.: Light indexed deferred rendering. In
 ShaderX7 (2009), Charles River Media. 3
+
+
+
