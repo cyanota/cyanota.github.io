@@ -66,11 +66,16 @@ Forward+扩展了前向渲染管线，仅在最终着色前添加了一个光照
 由于最终着色的自由度，未来的工作可以探索许多方法。例如通过发射本地短射线到光源，为场景中的所有光照计算阴影。
 
 ## 参考
+
+
 [^Kap10]: [Kap10] KAPLANYAN A.: CryENGINE 3: Reaching the speed of
 light. ACM SIGGRAPH 2010 Courses (2010). 2
+
 [^AMHH08]: [AMHH08] AKENINE-MOLLER T., HAINES E., HOFFMAN N.:
 Real-Time Rendering, 3 ed. AK Peters, July 2008. 3
+
 [^And11]: [And11] ANDERSSON J.: DirectX 11 Rendering in Battlefield 3.
 Game Developers Conference (2011). 3, 4
+
 [^Tre09]:  [Tre09] TREBILCO D.: Light indexed deferred rendering. In
 ShaderX7 (2009), Charles River Media. 3
