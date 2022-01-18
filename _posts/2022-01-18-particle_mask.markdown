@@ -1,4 +1,9 @@
-在Unity中为粒子系统添加Sprite Mask的注意事项
+---
+layout: post
+title:  "在Unity中为粒子系统添加Sprite Mask的注意事项"
+date:   2022-01-18 15:46:00 +0000
+categories: Unity Particle Mask
+---
 
 如果需要在粒子系统中使用Sprite Mask，需要注意几点：
 1. Mask和粒子系统对象必须在同一个层级，而不是粒子系统从属于Mask
